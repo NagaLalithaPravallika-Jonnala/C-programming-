@@ -1,4 +1,4 @@
-//The given number is equal to zero or positive or +ve or -ve
+//The given number is equal to zero or +ve or -ve
 #include<stdio.h>
 void main()
 {
